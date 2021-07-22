@@ -12,4 +12,4 @@ The JSON files may be uploaded into [EasyEDA](https://easyeda.com/) and modified
 directly from JLCPCB from the editor window.
 
 The associated firmware is part of the QMK firmware package, found at https://github.com/qmk/qmk_firmware . It is in the 
-keyboards/tronguylabs directory.
+[keyboards/tronguylabs directory](https://github.com/qmk/qmk_firmware/tree/master/keyboards/tronguylabs/m122_3270).
